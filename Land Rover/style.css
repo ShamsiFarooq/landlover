@@ -1,0 +1,33 @@
+.navbar-brand{
+  position: relative;
+ 
+}
+
+.reserv-para{
+  display: inline;
+}
+.vehicles-heading{
+  
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.vehi-discr p{
+  
+  color: rgb(54, 52, 52);
+  
+}
+
+.vehi-discr:hover{
+  
+  cursor: pointer;
+  color: black;
+
+}
+.thumbnail img{
+  cursor: pointer;
+}
+#vehiclesdiv{
+  background-color: rgb(241, 224, 224);
+}
